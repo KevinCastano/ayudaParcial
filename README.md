@@ -1,0 +1,2 @@
+# ayudaParcial
+ayuda
